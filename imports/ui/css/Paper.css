@@ -1,0 +1,21 @@
+.KartuImg {
+    height: 300;
+    padding-top: 100%
+}
+.Kartu{
+    display: 'flex';
+    justify-content: 'center';
+    align-items: 'baseline';
+}
+.Kertas{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.gridRoot{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    overflow: hidden;
+    background-color: white
+}
